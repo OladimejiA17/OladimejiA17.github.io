@@ -28,4 +28,17 @@ Regional Opportunities: The comparison of house prices and market activity helps
 This dashboard serves as a valuable analytical tool for property investors, buyers, estate agents, and other stakeholders, providing clear and accessible insights into England’s regional property market. It supports informed decision-making by allowing users to compare regions, monitor market trends, and identify changes in property market performance over time.
 
 **Dashboard Overview:**
-![England_Regional_Property_Dashboard](England_Regional_Property_Dashboard.PNG)
+![England_Regional_lProperty_Dashboard](Engand_Regional_Property_Dashboard.PNG)
+
+
+# Project 2
+**Title:** [BNPL Customer Insights Dashboard](Buy_Now_Pay_Later_Dashboard.pbix)
+
+**Tools Used:** Power BI (Power query, DAX, Dashboard)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![Buy_Now_Pay_later_Customer_Dashboard](Buy_Now_Pay_later_Customer_Dashboard.PNG)
